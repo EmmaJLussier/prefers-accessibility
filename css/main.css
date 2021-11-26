@@ -69,5 +69,11 @@ html {
  * Unfortunately, Markbot, is a little too old to understand them. :(
  * =============
  */
+@media (prefers-reduced-motion) {
+
+}
+
+@media (prefers-color-scheme:dark) {
+}
 
 /* stylelint-enable */
